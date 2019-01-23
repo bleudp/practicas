@@ -1,0 +1,10 @@
+publiuc class Variables {
+    public static void main(String[] args){ // método main
+        // byte edad;
+        int edad;        
+        edad=35;
+        System.out.println(edad);
+    }
+
+
+}
