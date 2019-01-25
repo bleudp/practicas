@@ -9,6 +9,4 @@ public class Declaraciones_Operadores{
         c = b/a; // se queda con la parte entera ( es int, no double )
         System.out.println(c);
     }
-
-
 }
