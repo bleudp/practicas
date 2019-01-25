@@ -6,7 +6,7 @@ public class Declaraciones_Operadores{
         int c=b+a; // c es a + b
         c++; // incremento
         c+=8; // c = c + 8
-        c= b/a // se queda con la parte entera ( es int, no double )
+        c = b/a; // se queda con la parte entera ( es int, no double )
         System.out.println(c);
     }
 
