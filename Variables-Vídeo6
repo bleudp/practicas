@@ -1,4 +1,4 @@
-publiuc class Variables {
+public class Variables {
     public static void main(String[] args){ // método main
         // byte edad;
         int edad;        
