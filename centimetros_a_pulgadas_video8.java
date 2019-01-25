@@ -5,6 +5,4 @@ public class Declaraciones_Operadores{
         double resultado=cm/apulgadas;
         System.out.println("En " + cm + " centimetros hay " + resultado + " pulgadas.");
     }
-
-
 }
